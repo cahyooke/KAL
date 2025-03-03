@@ -159,6 +159,7 @@ $$
 R_2 \rightarrow R_2 - 2R_1
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 R_3 \rightarrow R_3 - R_1
@@ -208,6 +209,7 @@ $$
 -\frac{3}{2} x_3 = -\frac{1}{2}
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 x_3 = \frac{1}{3}
@@ -219,16 +221,19 @@ $$
 x_2 + \frac{1}{2} x_3 = \frac{1}{2}
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 x_2 + \frac{1}{2} \times \frac{1}{3} = \frac{1}{2}
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 x_2 + \frac{1}{6} = \frac{1}{2}
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 x_2 = \frac{1}{2} - \frac{1}{6} = \frac{3}{6} - \frac{1}{6} = \frac{2}{6} = \frac{1}{3}
@@ -240,11 +245,13 @@ $$
 x_1 + x_2 + x_3 = 3
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 x_1 + \frac{1}{3} + \frac{1}{3} = 3
 \end{array}
 $$
+
 $$
 \begin{array}{cc}
 x_1 = 3 - \frac{2}{3} = \frac{9}{3} - \frac{2}{3} = \frac{7}{3}
@@ -355,6 +362,7 @@ $$
 0&-1&2&|&-1
 \end{bmatrix}
 $$
+
 $$
 \begin{array}{cc}
 R_2 \rightarrow \frac{R_2}{-1}
