@@ -1,4 +1,11 @@
 # Sistem Persamaan linier
+
+Nama : Dwi Cahyo Hadi Sampurno
+
+NIM : 230411100117
+
+Email : ocahyo7@gmail.com
+
 ## Definisi Sistem Persamaan Linier
 Sistem Persamaan Linier adalah suatu kumpulan dua atau lebih persamaan linier yang memiliki satu atau lebih variabel yang sama dan harus dipenuhi secara bersamaan. Setiap persamaan dalam sistem ini berbentuk persamaan linier, yaitu persamaan yang variabel-variabelnya berpangkat satu (derajat pertama) dan tidak mengandung perkalian antar variabel.
 
